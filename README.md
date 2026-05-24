@@ -21,7 +21,7 @@ Building AI-powered applications, autonomous agents, workflow automation systems
 <h3 align="center">Currently Working With</h3>
 
 <p align="center">
-LangGraph • LangChain • FastAPI • n8n • Make • LLM APIs • Laravel • Node.js
+ FastAPI • n8n • Make • LLM APIs • Laravel • Node.js
 </p>
 
 <h3 align="center">Connect with me</h3>
