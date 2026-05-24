@@ -66,13 +66,6 @@ LangGraph • LangChain • FastAPI • n8n • Make • LLM APIs • Laravel �
 </a>
 
 <!-- AI / ML -->
-<a href="https://python.langchain.com/" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45"/>
-</a>
-
-<a href="https://www.langchain.com/langgraph" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45"/>
-</a>
 
 <a href="https://numpy.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
@@ -111,7 +104,3 @@ LangGraph • LangChain • FastAPI • n8n • Make • LLM APIs • Laravel �
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irriva&show_icons=true&locale=en&layout=compact" alt="irriva" />
-</p>
